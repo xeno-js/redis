@@ -1,6 +1,6 @@
 {
   "name": "@xeno-js/redis",
-  "version": "1.0.7",
+  "version": "0.0.0",
   "description": "Redis caching and atomic operations integration for Xeno.js with ioredis support, atomic counters, distributed locks, and TypeScript.",
   "repository": {
     "type": "git",
