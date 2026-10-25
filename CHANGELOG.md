@@ -1,6 +1,6 @@
-# [1.0.0](https://github.com/xeno-js/xeno-postgresql/compare/128a9f1c76923dd44c138f2fe1a3e28282c23823...v1.0.0) (2026-10-08)
+# [1.0.0](https://github.com/xeno-js/redis/compare/5342eb7b1c5f889d14fa7740ed2b3e8fcf2b8144...v1.0.0) (2026-10-25)
 
 ### Features
 
-- adding postgresql pkg
-  ([128a9f1](https://github.com/xeno-js/xeno-postgresql/commit/128a9f1c76923dd44c138f2fe1a3e28282c23823))
+- init project
+  ([5342eb7](https://github.com/xeno-js/redis/commit/5342eb7b1c5f889d14fa7740ed2b3e8fcf2b8144))
