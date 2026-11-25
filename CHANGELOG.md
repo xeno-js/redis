@@ -1,3 +1,5 @@
+## [1.0.1](https://github.com/xeno-js/redis/compare/v1.0.0...v1.0.1) (2026-11-25)
+
 # [1.0.0](https://github.com/xeno-js/redis/compare/5342eb7b1c5f889d14fa7740ed2b3e8fcf2b8144...v1.0.0) (2026-10-25)
 
 ### Features
